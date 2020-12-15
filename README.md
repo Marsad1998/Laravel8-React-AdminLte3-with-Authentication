@@ -1,4 +1,16 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
+</p>
+
+##About Project
+This Project Contain Laravel-8 and configured with ReactJs along with Adminlte-3 (Latest) and Authentication of Laravel is all set.
+You just need to clone Repository and Follow the Bellow Step
+1- Clone Repository
+2- Composer Install (If you already have skip this step)
+3- NPM Install
+4- NPM Run Watch
+5- php artisan migrate
+6- php artisan serve
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
